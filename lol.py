@@ -1,2 +1,1 @@
-print("Hello, there, miserable man")
-
+print("Hello, there, miserable")
